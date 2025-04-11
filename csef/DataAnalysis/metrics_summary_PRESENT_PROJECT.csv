@@ -1,0 +1,7 @@
+Model,F1 Score,ROC-AUC,Time (s)
+Basic CNN,0.6668 (Fair),0.5000 (Poor),397.66 (Slow)
+Deep CNN,0.6668 (Fair),0.6457 (Fair),917.22 (Slow)
+Lightweight CNN,0.7418 (Good),0.8267 (Very Good),1277.64 (Slow)
+RNN,0.6668 (Fair),0.5063 (Poor),630.59 (Slow)
+RF,0.8052 (Very Good),0.8821 (Very Good),219.21 (Fast)
+BLS,0.7005 (Good),0.7822 (Good),825.70 (Slow)
